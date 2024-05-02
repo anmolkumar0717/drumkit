@@ -1,5 +1,5 @@
-
 ##DrumKit Web App
+
 This project is a simple drum kit web application built using HTML, CSS, and JavaScript.
 
 Table of Contents
@@ -21,12 +21,12 @@ Usage
 Clone this repository to your local machine.
 bash
 Copy code
-git clone https://github.com/yourusername/drumkit-web-app.git
+git clone https://github.com/anmolkumar0717/drumkit.git
 Open the index.html file in your web browser.
 Click on the drum pads with your mouse or press the corresponding keys on your keyboard to play the drum sounds.
 Enjoy making some beats!
 Demo
-You can try out the live demo here.
+#You can try out the live demo here.
 
 Technologies Used
 HTML5
